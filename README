@@ -1,0 +1,11 @@
+To get skeletal tracking up and running easy on OSX go here:
+
+http://pkmital.com/home/2011/01/24/streaming-motion-capture-data-from-the-kinect-using-osc-on-mac-osx/
+
+For the problems you are going to have with the libUSB driver look here:
+
+http://discussions.apple.com/thread.jspa?messageID=12438610
+
+If you are curious about arduino robotic arm inverse kinematics look here:
+
+http://www.circuitsathome.com/mcu/robotic-arm-inverse-kinematics-on-arduino
