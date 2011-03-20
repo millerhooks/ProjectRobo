@@ -1,431 +1,0 @@
-THello World
-v7
-r0
-t322019050.382693
-cCheck dependencies
-cProcessInfoPlistFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
-cCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/MainWindow.xib"
-cCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.xib"
-cCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.xib"
-cProcessPCH /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/TouchViewController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
-cGenerateDSYMFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM" "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World"
-cTouch "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004C5D41EA0000000000000132
-t1281180138
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h
-c000000004BFDFE2F000000000000636F
-t1274936879
-s25455
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.h
-c000000004D8134D1000000000000034A
-t1300313297
-s842
-i<UIKit/UIKit.h>
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m
-c000000004D8134FD000000000000114F
-t1300313341
-s4431
-i"MyViewControlly.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib
-c000000004D8165CF0000000000005E86
-t1300325839
-s24198
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.h
-c000000004D8165E5000000000000034E
-t1300325861
-s846
-i<UIKit/UIKit.h>
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m
-c000000004D8167170000000000001154
-t1300326167
-s4436
-i"TouchViewController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.xib
-c000000004D8165CF0000000000005E86
-t1300325839
-s24198
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.h
-c000000004D8165EF000000000000023A
-t1300325871
-s570
-i<UIKit/UIKit.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m
-c000000004D8165EC00000000000003B5
-t1300325868
-s949
-i"Hello_WorldAppDelegate.h"
-i"TouchViewController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.h
-c000000004B6D84D400000000000000E9
-t1265468628
-s233
-i<UIKit/UIKit.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m
-c000000004B6D84D4000000000000057A
-t1265468628
-s1402
-i"MyTouchViewController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.xib
-c000000004B6D84D4000000000000187A
-t1265468628
-s6266
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.h
-c000000004B6D72BC00000000000001BC
-t1265463996
-s444
-i<Foundation/Foundation.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m
-c000000004B6D72BD000000000000055A
-t1265463997
-s1370
-i"NSStreamAdditions.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.h
-c000000004B6D9A310000000000000310
-t1265474097
-s784
-i<Foundation/Foundation.h>
-i<CFNetwork/CFSocketStream.h>
-i"NSStreamAdditions.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m
-c000000004B8CCE49000000000000122F
-t1267519049
-s4655
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Hello_World_Prefix.pch
-c000000004B680C0D00000000000000BF
-t1265110029
-s191
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/MainWindow.xib
-c000000004B680C0D0000000000001F67
-t1265110029
-s8039
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.h
-c000000004D8134D1000000000000034A
-t1300313297
-s842
-i<UIKit/UIKit.h>
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.h
-c000000004D8165E5000000000000034E
-t1300325861
-s846
-i<UIKit/UIKit.h>
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app
-t1300326250
-s306
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM
-t1300326250
-s102
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World
-t1300326250
-s33492
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Info.plist
-t1300301437
-s607
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MainWindow.nib
-t1300301437
-s964
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MyTouchViewController.nib
-t1300301438
-s764
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MyViewControlly.nib
-t1300325919
-s1998
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/PkgInfo
-t1300301437
-s8
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/TouchViewController.nib
-t1300326250
-s1998
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList
-c000000004D81661E00000000000003A0
-t1300325918
-s928
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
-t1300325920
-s48108
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o
-t1300305689
-s34416
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o
-t1300313344
-s53916
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o
-t1300305688
-s8552
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o
-t1300305689
-s54688
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/TouchViewController.o
-t1300326250
-s54264
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
-t1300305688
-s6320
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/main.m
-c000000004B680C0D0000000000000164
-t1265110029
-s356
-i<UIKit/UIKit.h>
-
-N/var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch
-t1300305688
-s15232016
-
-NHello_World-Info.plist
-c000000004B680C0D000000000000038D
-t1265110029
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies322019049#322019049#0(0"0(0#1#0"8678077536#0"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s322018719.197146
-e322018720.350099
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m322018719#322018720#0(0"0(0#0#80"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m8635588448#2160"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998489.008883
-e321998489.092675
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m321998489#321998489#0(0"0(0#0#79"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m8612912576#2158"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s322006144.407550
-e322006144.691376
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m322006144#322006144#0(0"0(0#0#76"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m8626390336#2149"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.916307
-e321998489.008782
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m321998488#321998489#0(0"0(0#0#75"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m8601268064#2150"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.948294
-e321998489.084450
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingStream:portNo:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:64: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:65: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingCFStream:portNo:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:107: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:114: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController stream:handleEvent:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:142: warning: format not a string literal and no format arguments
-lSLF07#2@89"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m321998488#321998489#0(1329"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingStream:portNo:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:64: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:65: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingCFStream:portNo:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:107: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:114: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController stream:handleEvent:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:142: warning: format not a string literal and no format arguments5(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#160#178#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#64#0#64#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#338#178#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#65#0#65#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#678#179#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#107#0#107#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#857#179#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#114#0#114#0#45"class '*' does not implement the '*' protocol0(22@51"Format not a string literal and no format arguments321998489#1181#148#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#142#0#142#0#51"format not a string literal and no format arguments0(0#0#81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m8596213312#2162"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/TouchViewController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s322019050.140333
-e322019050.331313
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/TouchViewController.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m322019050#322019050#0(0"0(0#0#80"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m8677488544#2157"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/TouchViewController.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.815003
-e321998488.873476
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/main.m321998488#321998488#0(0"0(0#0#54"/Users/mewp/Documents/Code/iPhone/Servo Control/main.m8612114752#2116"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/main.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib"
-s322018718.767988
-e322018719.196810
-r1
-xCompileXIB
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib
-o/* com.apple.ibtool.document.warnings */
-o/Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.xib:-1: warning: The 'label' outlet of 'File's Owner' is connected to 'Label' but 'label' is no longer defined on TouchViewController.
-o/Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.xib:6: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Reconnect)' is connected to the 'changeGreeting:' selector of 'File's Owner', but 'changeGreeting:' is no longer defined on 'TouchViewController'.
-lSLF07#2@41"CompileXIB Classes/../MyViewControlly.xib322018718#322018719#0(520"/* com.apple.ibtool.document.warnings *//Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.xib:-1: warning: The 'label' outlet of 'File's Owner' is connected to 'Label' but 'label' is no longer defined on TouchViewController./Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.xib:6: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Reconnect)' is connected to the 'changeGreeting:' selector of 'File's Owner', but 'changeGreeting:' is no longer defined on 'TouchViewController'.2(22@117"The 'label' outlet of 'File's Owner' is connected to 'Label' but 'label' is no longer defined on TouchViewController.322018719#18446744073709551615#0#0(6@67"/Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.xib322018639#18446744073709551615#0#18446744073709551615#0#0"0(22@199"The 'Touch Up Inside' event of 'Rounded Rect Button (Reconnect)' is connected to the 'changeGreeting:' selector of 'File's Owner', but 'changeGreeting:' is no longer defined on 'TouchViewController'.322018719#18446744073709551615#0#0(6@67"/Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.xib322018639#6#0#6#0#0"0(0#0#78"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib8642329120#628"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MyViewControlly.nib" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.xib"
-s322019049.700777
-e322019050.139916
-r1
-xCompileXIB
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.xib
-o/* com.apple.ibtool.document.warnings */
-o/Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.xib:6: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Reconnect)' is connected to the 'changeGreeting:' selector of 'File's Owner', but 'changeGreeting:' is no longer defined on 'TouchViewController'.
-o/Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.xib:-1: warning: The 'label' outlet of 'File's Owner' is connected to 'Label' but 'label' is no longer defined on TouchViewController.
-lSLF07#2@45"CompileXIB Classes/../TouchViewController.xib322019049#322019050#0(528"/* com.apple.ibtool.document.warnings *//Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.xib:6: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Reconnect)' is connected to the 'changeGreeting:' selector of 'File's Owner', but 'changeGreeting:' is no longer defined on 'TouchViewController'./Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.xib:-1: warning: The 'label' outlet of 'File's Owner' is connected to 'Label' but 'label' is no longer defined on TouchViewController.2(22@199"The 'Touch Up Inside' event of 'Rounded Rect Button (Reconnect)' is connected to the 'changeGreeting:' selector of 'File's Owner', but 'changeGreeting:' is no longer defined on 'TouchViewController'.322019050#18446744073709551615#0#0(6@71"/Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.xib322018639#6#0#6#0#0"0(22@117"The 'label' outlet of 'File's Owner' is connected to 'Label' but 'label' is no longer defined on TouchViewController.322019050#18446744073709551615#0#0(6@71"/Users/mewp/Documents/Code/iPhone/Servo Control/TouchViewController.xib322018639#18446744073709551615#0#18446744073709551615#0#0"0(0#0#82"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.xib8676957184#636"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/TouchViewController.nib" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../TouchViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.xib"
-r0
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/MainWindow.xib"
-r0
-
-CGenerateDSYMFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM" "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World"
-s322019050.357261
-e322019050.379313
-r1
-xGenerateDSYMFile
-x/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM
-x/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World
-lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Hello World.app.dSYM" "build/Debug-iphonesimulator/Hello World.app/Hello World"322019050#322019050#0(0"0(0#0#103"/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World8677231136#428"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM"0#
-
-CLd "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
-s322019050.331455
-e322019050.357047
-r1
-xLd
-x/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World
-xnormal
-xi386
-lSLF07#2@108"Link /Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World322019050#322019050#0(0"0(0#0#0"8659800512#977"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" -filelist "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World"0#
-
-CProcessInfoPlistFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
-r0
-
-CProcessPCH /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.141015
-e321998488.814886
-r1
-xProcessPCH
-x/var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch
-xHello_World_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile Hello_World_Prefix.pch321998488#321998488#0(0"0(0#0#70"/Users/mewp/Documents/Code/iPhone/Servo Control/Hello_World_Prefix.pch8613401408#1991"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Hello_World_Prefix.pch" -o /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch0#
-
-CTouch "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app"
-s322019050.379561
-e322019050.382649
-r1
-xTouch
-x/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app
-lSLF07#2@97"Touch /Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app322019050#322019050#0(0"0(0#0#0"8675353216#304"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app"0#
-

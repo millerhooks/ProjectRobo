@@ -1,462 +1,0 @@
-THello World
-v7
-r0
-t321998489.092762
-cCheck dependencies
-cProcessInfoPlistFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
-cCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/MainWindow.xib"
-cCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib"
-cCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.xib"
-cProcessPCH /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004C5D41EA0000000000000132
-t1281180138
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h
-c000000004BFDFE2F000000000000636F
-t1274936879
-s25455
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.h
-c000000004B8CCBB70000000000000301
-t1267518391
-s769
-i<UIKit/UIKit.h>
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m
-c000000004D81170900000000000010D4
-t1300305673
-s4308
-i"MyViewControlly.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib
-c000000004D8107EB0000000000006D3C
-t1300301803
-s27964
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.h
-c000000004B6D8B7C000000000000022E
-t1265470332
-s558
-i<UIKit/UIKit.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m
-c000000004B6D8B8300000000000003A9
-t1265470339
-s937
-i"Hello_WorldAppDelegate.h"
-i"MyViewControlly.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.h
-c000000004B6D84D400000000000000E9
-t1265468628
-s233
-i<UIKit/UIKit.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m
-c000000004B6D84D4000000000000057A
-t1265468628
-s1402
-i"MyTouchViewController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.xib
-c000000004B6D84D4000000000000187A
-t1265468628
-s6266
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.h
-c000000004B6D72BC00000000000001BC
-t1265463996
-s444
-i<Foundation/Foundation.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m
-c000000004B6D72BD000000000000055A
-t1265463997
-s1370
-i"NSStreamAdditions.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.h
-c000000004B6D9A310000000000000310
-t1265474097
-s784
-i<Foundation/Foundation.h>
-i<CFNetwork/CFSocketStream.h>
-i"NSStreamAdditions.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m
-c000000004B8CCE49000000000000122F
-t1267519049
-s4655
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/Hello_World_Prefix.pch
-c000000004B680C0D00000000000000BF
-t1265110029
-s191
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/MainWindow.xib
-c000000004B680C0D0000000000001F67
-t1265110029
-s8039
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/MyViewControlly.h
-c000000004B8CCBB70000000000000301
-t1267518391
-s769
-i<UIKit/UIKit.h>
-i"NetworkClientController.h"
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app
-t1300302307
-s272
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM
-t1300302307
-s102
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World
-t1300302307
-s32748
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Info.plist
-t1300301437
-s607
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MainWindow.nib
-t1300301437
-s964
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MyTouchViewController.nib
-t1300301438
-s764
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/MyViewControlly.nib
-t1300301807
-s2525
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/PkgInfo
-t1300301437
-s8
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList
-c000000004D811718000000000000039C
-t1300305688
-s924
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
-t1300305688
-s47596
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o
-t1300305689
-s34416
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o
-t2
-s0
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o
-t1300305688
-s8552
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o
-t1300305689
-s54688
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
-t1300305688
-s6320
-
-N/Users/mewp/Documents/Code/iPhone/Servo Control/main.m
-c000000004B680C0D0000000000000164
-t1265110029
-s356
-i<UIKit/UIKit.h>
-
-N/var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch
-t1300305688
-s15232016
-
-NHello_World-Info.plist
-c000000004B680C0D000000000000038D
-t1265110029
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies321998488#321998488#0(0"0(0#1#0"8610603232#0"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.816082
-e321998488.916195
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m321998488#321998488#0(0"0(0#0#80"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m8610867040#2160"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/Hello_WorldAppDelegate.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998489.008883
-e321998489.092675
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m321998489#321998489#0(0"0(0#0#79"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m8612912576#2158"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyTouchViewController.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.873590
-e321998488.948192
-r0
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m: In function '-[MyViewControlly sendTouchesEvent:withEvent:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m:120: error: 'plocation' undeclared (first use in this function)
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m:120: error: (Each undeclared identifier is reported only once
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m:120: error: for each function it appears in.)
-o{standard input}:531:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"
-o{standard input}:531:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
-o{standard input}:527:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000006$pb"
-o{standard input}:527:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
-o{standard input}:519:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"
-o{standard input}:519:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
-o{standard input}:513:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" minus "L00000000006$pb"
-o{standard input}:513:symbol: "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"
-o{standard input}:506:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
-o{standard input}:500:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" minus "L00000000006$pb"
-o{standard input}:500:symbol: "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"
-o{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
-o{standard input}:487:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000006$pb"
-o{standard input}:487:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:480:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"
-o{standard input}:480:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
-o{standard input}:474:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000006$pb"
-o{standard input}:474:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000005$pb"
-o{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
-o{standard input}:429:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000005$pb"
-o{standard input}:429:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
-o{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
-o{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
-o{standard input}:391:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000004$pb"
-o{standard input}:391:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
-o{standard input}:387:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000004$pb"
-o{standard input}:387:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
-o{standard input}:381:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000004$pb"
-o{standard input}:381:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:339:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
-o{standard input}:339:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
-o{standard input}:330:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
-o{standard input}:330:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
-o{standard input}:324:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:324:symbol: "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:313:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
-o{standard input}:313:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
-o{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000003$pb"
-o{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
-o{standard input}:303:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"
-o{standard input}:303:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
-o{standard input}:291:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"
-o{standard input}:291:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
-o{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:283:symbol: "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:274:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"
-o{standard input}:274:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
-o{standard input}:268:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:268:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:259:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"
-o{standard input}:259:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
-o{standard input}:253:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:253:symbol: "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"
-o{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
-o{standard input}:238:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"
-o{standard input}:238:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
-o{standard input}:232:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:232:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
-o{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
-o{standard input}:219:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:219:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:212:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
-o{standard input}:212:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
-o{standard input}:206:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000003$pb"
-o{standard input}:206:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:152:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
-o{standard input}:152:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
-o{standard input}:146:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000002$pb"
-o{standard input}:146:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:137:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000002$pb"
-o{standard input}:137:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
-o{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
-o{standard input}:104:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000001$pb"
-o{standard input}:104:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
-o{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:86:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
-o{standard input}:86:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
-o{standard input}:83:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
-o{standard input}:83:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
-o{standard input}:78:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000001$pb"
-o{standard input}:78:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression
-o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
-o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
-o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
-o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
-lSLF07#2@84"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m321998488#321998489#0(13123"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m: In function '-[MyViewControlly sendTouchesEvent:withEvent:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m:120: error: 'plocation' undeclared (first use in this function)/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m:120: error: (Each undeclared identifier is reported only once/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m:120: error: for each function it appears in.){standard input}:531:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"{standard input}:531:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:527:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000006$pb"{standard input}:527:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:519:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"{standard input}:519:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:513:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" minus "L00000000006$pb"{standard input}:513:symbol: "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"{standard input}:506:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:500:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" minus "L00000000006$pb"{standard input}:500:symbol: "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:487:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000006$pb"{standard input}:487:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:480:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"{standard input}:480:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:474:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000006$pb"{standard input}:474:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000005$pb"{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:429:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000005$pb"{standard input}:429:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:391:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000004$pb"{standard input}:391:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:387:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000004$pb"{standard input}:387:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:381:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000004$pb"{standard input}:381:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:339:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:339:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:330:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:330:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:324:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" minus "L00000000003$pb"{standard input}:324:symbol: "L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:313:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:313:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000003$pb"{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:303:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"{standard input}:303:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:291:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"{standard input}:291:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" minus "L00000000003$pb"{standard input}:283:symbol: "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:274:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"{standard input}:274:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:268:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000003$pb"{standard input}:268:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:259:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"{standard input}:259:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:253:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" minus "L00000000003$pb"{standard input}:253:symbol: "L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:238:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"{standard input}:238:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:232:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000003$pb"{standard input}:232:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:219:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000003$pb"{standard input}:219:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:212:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:212:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:206:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000003$pb"{standard input}:206:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:152:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:152:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:146:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000002$pb"{standard input}:146:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:137:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" minus "L00000000002$pb"{standard input}:137:symbol: "L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000001$pb"{standard input}:104:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:86:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:86:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:83:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:78:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" minus "L00000000001$pb"{standard input}:78:symbol: "L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.connection$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.textField$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.string$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewControlly.label$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_171(4@51"'plocation' undeclared (first use in this function)321998488#140#141#0(6@76"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m321998473#120#0#120#0#43"'*' undeclared (first use in this function)0(0#0#76"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m8604367904#2149"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyViewControlly.o"1#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.916307
-e321998489.008782
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m321998488#321998489#0(0"0(0#0#75"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m8601268064#2150"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NSStreamAdditions.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NSStreamAdditions.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.948294
-e321998489.084450
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingStream:portNo:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:64: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:65: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingCFStream:portNo:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:107: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:114: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController stream:handleEvent:]':
-o/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:142: warning: format not a string literal and no format arguments
-lSLF07#2@89"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m321998488#321998489#0(1329"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingStream:portNo:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:64: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:65: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController connectToServerUsingCFStream:portNo:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:107: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:114: warning: class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m: In function '-[NetworkClientController stream:handleEvent:]':/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m:142: warning: format not a string literal and no format arguments5(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#160#178#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#64#0#64#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#338#178#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#65#0#65#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#678#179#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#107#0#107#0#45"class '*' does not implement the '*' protocol0(22@82"Class 'NetworkClientController' does not implement the 'NSStreamDelegate' protocol321998489#857#179#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#114#0#114#0#45"class '*' does not implement the '*' protocol0(22@51"Format not a string literal and no format arguments321998489#1181#148#0(6@81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m289211849#142#0#142#0#51"format not a string literal and no format arguments0(0#0#81"/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m8596213312#2162"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/NetworkClientController.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/NetworkClientController.o"0#
-
-CCompileC "build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/mewp/Documents/Code/iPhone/Servo Control/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.815003
-e321998488.873476
-r1
-xCompileC
-xbuild/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
-x/Users/mewp/Documents/Code/iPhone/Servo Control/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/mewp/Documents/Code/iPhone/Servo Control/main.m321998488#321998488#0(0"0(0#0#54"/Users/mewp/Documents/Code/iPhone/Servo Control/main.m8612114752#2116"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch -c "/Users/mewp/Documents/Code/iPhone/Servo Control/main.m" -o "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/../MyViewControlly.xib"
-r0
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/Classes/MyTouchViewController.xib"
-r0
-
-CCompileXIB "/Users/mewp/Documents/Code/iPhone/Servo Control/MainWindow.xib"
-r0
-
-CGenerateDSYMFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app.dSYM" "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World"
-r0
-
-CLd "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
-r0
-
-CProcessInfoPlistFile "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
-r0
-
-CProcessPCH /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s321998488.141015
-e321998488.814886
-r1
-xProcessPCH
-x/var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch
-xHello_World_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile Hello_World_Prefix.pch321998488#321998488#0(0"0(0#0#70"/Users/mewp/Documents/Code/iPhone/Servo Control/Hello_World_Prefix.pch8613401408#1991"    cd "/Users/mewp/Documents/Code/iPhone/Servo Control"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/include" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/mewp/Documents/Code/iPhone/Servo Control/build/Servo Control.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -c "/Users/mewp/Documents/Code/iPhone/Servo Control/Hello_World_Prefix.pch" -o /var/folders/VF/VFNuJhdPFM4mqvjcUy9Wv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-fcjzsdtwdwldowbqwvgrhbfqyzif/Hello_World_Prefix.pch.gch0#
-
-CTouch "/Users/mewp/Documents/Code/iPhone/Servo Control/build/Debug-iphonesimulator/Hello World.app"
-r0
-
