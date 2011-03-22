@@ -18,7 +18,6 @@ float v_toggle4 = 0.0f;
 float shoulder_targ, elbow_targ, wrist_targ = 0.0f;
 float shoulder_current = 0.0f;
 
-
 Serial port;
 Server server;
 float limits = 180.0;
@@ -46,6 +45,7 @@ void setup() {
 
 void draw() {
   drawOsc();
+  
   // Used for the iPhone communication server.
   //loadClientStream();
   if (active) {
